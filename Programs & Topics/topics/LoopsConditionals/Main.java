@@ -24,7 +24,7 @@ public class Main {
         }
         else
         {
-            System.out.println("Salary is Less");
+            System.out.println("Salary is Les");
         }
 
 
